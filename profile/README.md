@@ -25,3 +25,34 @@
 
 📎 Подробнее и демо: [VPN Bot](https://t.me/PavelAIU_VPN_bot)
 
+---
+
+💡 **Offer for Participants**
+
+I will provide access to the VPN bot repository for a one-time fee. Contact support: [https://t.me/PavelAIU\_VPN\_bot](https://t.me/PavelAIU_VPN_bot)
+
+### 🚀 About the Product
+
+📡 Deployed on your own resources — full control and security.
+
+🔧 Actively developed: new features, assistance with installation and setup.
+
+### 🌐 Features
+
+✅ Access to YouTube, WhatsApp, Telegram, and other resources
+
+✅ Supported protocols: **VLESS, Shadowsocks, Outline, Amnezia, WireGuard**
+
+✅ Integration with payment systems: **Telegram Stars, CryptoBot, YooKassa, YooMoney**, and more
+
+✅ Flexible configuration for different devices and tasks
+
+✅ Functionality: subscription-based access control, unlimited servers, newsletters (text + images), statistics, web panel, client groups, channel subscription check, donations, promo codes, multiple keys per user, custom fonts, paid access to locations
+
+✅ Tech stack: **Python3, aiogram, Docker**
+
+📎 More details and demo: [VPN Bot](https://t.me/PavelAIU_VPN_bot)
+
+
+
+
