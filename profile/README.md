@@ -1,4 +1,8 @@
+<img width="269" height="130" alt="image" src="https://github.com/user-attachments/assets/f2ec705b-216d-4845-9841-4769598fa77b" />
 
+<img width="596" height="372" alt="image" src="https://github.com/user-attachments/assets/2ab1fcc0-2ece-40f9-96f2-ff98803d15f9" />
+
+---
 💡 **Offer for Participants**
 
 I will provide access to the VPN bot repository for a one-time fee. Contact support: [https://t.me/PavelAIU\_VPN\_bot](https://t.me/PavelAIU_VPN_bot)
